@@ -1,11 +1,11 @@
 body{
     background-color: blanchedalmond;
     text-align: center;
-    
 }
 #mycss{
-    font-size: 30px;
-    background-color: transparent;
-    box-shadow: 10px;
-    border-radius: 25px;
+    color: white;
+    font-size: 20px;
+    background-color: blue;
+    border-radius: 2px;
+    border-color: black;
 }
